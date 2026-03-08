@@ -1,2 +1,4 @@
-# application B
+application B
+application A
+
 
